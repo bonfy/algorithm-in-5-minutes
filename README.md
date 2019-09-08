@@ -5,3 +5,4 @@
 | No | Problem | 
 |  ----  | ----  |
 | 1 | [Two Sum](https://github.com/bonfy/algorithm-in-5-minutes/issues/1) |
+| 2 | [Move Zeroes](https://github.com/bonfy/algorithm-in-5-minutes/issues/2) |
